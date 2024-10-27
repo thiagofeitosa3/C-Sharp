@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\04 Comportamento de mem\u00F3ria, arrays, listas\\ExercicioList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348718BE-671D-40D4-9537-5351FD60E25D}|ExercicioList\\ExercicioList.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\csharp\\04 comportamento de mem\u00F3ria, arrays, listas\\exerciciolist\\exerciciolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348718BE-671D-40D4-9537-5351FD60E25D}|ExercicioList\\ExercicioList.csproj|solutionrelative:exerciciolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348718BE-671D-40D4-9537-5351FD60E25D}|ExercicioList\\ExercicioList.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\csharp\\04 comportamento de mem\u00F3ria, arrays, listas\\exerciciolist\\exerciciolist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348718BE-671D-40D4-9537-5351FD60E25D}|ExercicioList\\ExercicioList.csproj|solutionrelative:exerciciolist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\04 Comportamento de mem\u00F3ria, arrays, listas\\ExercicioList\\ExercicioList\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioList\\Employee.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\04 Comportamento de mem\u00F3ria, arrays, listas\\ExercicioList\\ExercicioList\\Employee.cs",
+              "RelativeToolTip": "ExercicioList\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:40:12.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\04 Comportamento de mem\u00F3ria, arrays, listas\\ExercicioList\\ExercicioList\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioList\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\04 Comportamento de mem\u00F3ria, arrays, listas\\ExercicioList\\ExercicioList\\Program.cs",
+              "RelativeToolTip": "ExercicioList\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAjwDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:39:21.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

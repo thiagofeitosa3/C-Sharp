@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\refint\CalculoSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\CalculoSimples\CalculoSimples\obj\Debug\net8.0\ref\CalculoSimples.dll

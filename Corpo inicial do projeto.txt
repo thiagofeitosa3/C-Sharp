@@ -1,0 +1,17 @@
+using System;
+using System.Globalization;
+
+namespace uri1000 //Exercicio
+
+// https://github.com/
+// https://judge.beecrowd.com/
+
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}

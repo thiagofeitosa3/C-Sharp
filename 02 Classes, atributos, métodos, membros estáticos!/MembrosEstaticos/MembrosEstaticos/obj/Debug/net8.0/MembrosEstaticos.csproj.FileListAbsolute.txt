@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Classes, atributos, métodos, membros estáticos!\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\bin\Debug\net8.0\TempoDeJogo.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\bin\Debug\net8.0\TempoDeJogo.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\bin\Debug\net8.0\TempoDeJogo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\bin\Debug\net8.0\TempoDeJogo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\bin\Debug\net8.0\TempoDeJogo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\refint\TempoDeJogo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\TempoDeJogo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Condicional\TempoDeJogo\TempoDeJogo\obj\Debug\net8.0\ref\TempoDeJogo.dll

@@ -1,0 +1,18 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\bin\Debug\net8.0\AreaDoCirculo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\refint\AreaDoCirculo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\AreaDoCirculo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\AreaDoCirculo\AreaDoCirculo\obj\Debug\net8.0\ref\AreaDoCirculo.dll

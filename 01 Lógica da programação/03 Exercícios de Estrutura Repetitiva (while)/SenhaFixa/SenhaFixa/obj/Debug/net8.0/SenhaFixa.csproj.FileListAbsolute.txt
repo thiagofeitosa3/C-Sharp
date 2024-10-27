@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\refint\SenhaFixa.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\SenhaFixa\SenhaFixa\obj\Debug\net8.0\ref\SenhaFixa.dll

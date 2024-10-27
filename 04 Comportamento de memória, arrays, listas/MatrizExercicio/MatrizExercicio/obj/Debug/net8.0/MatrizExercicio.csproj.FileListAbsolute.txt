@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\refint\MatrizExercicio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\ref\MatrizExercicio.dll

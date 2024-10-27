@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\Classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\MembrosEstaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E76EE-42E0-4972-8458-BFDCF97FDAD5}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\csharp\\classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\membrosestaticos\\membrosestaticos\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E76EE-42E0-4972-8458-BFDCF97FDAD5}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E76EE-42E0-4972-8458-BFDCF97FDAD5}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\programa\u00E7\u00E3o\\csharp\\classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\membrosestaticos\\membrosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E76EE-42E0-4972-8458-BFDCF97FDAD5}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\Classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\MembrosEstaticos\\MembrosEstaticos\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\Classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\MembrosEstaticos\\MembrosEstaticos\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "MembrosEstaticos\\ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:47:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\Classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\MembrosEstaticos\\MembrosEstaticos\\Program.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\Program.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\Programa\u00E7\u00E3o\\CSharp\\Classes, atributos, m\u00E9todos, membros est\u00E1ticos!\\MembrosEstaticos\\MembrosEstaticos\\Program.cs",
+              "RelativeToolTip": "MembrosEstaticos\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:43:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

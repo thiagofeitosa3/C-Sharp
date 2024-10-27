@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\bin\Debug\net8.0\VetoresExercicio.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\bin\Debug\net8.0\VetoresExercicio.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\bin\Debug\net8.0\VetoresExercicio.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\bin\Debug\net8.0\VetoresExercicio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\bin\Debug\net8.0\VetoresExercicio.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\refint\VetoresExercicio.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\VetoresExercicio.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\04 Comportamento de memória, arrays, listas\VetoresExercicio\VetoresExercicio\obj\Debug\net8.0\ref\VetoresExercicio.dll

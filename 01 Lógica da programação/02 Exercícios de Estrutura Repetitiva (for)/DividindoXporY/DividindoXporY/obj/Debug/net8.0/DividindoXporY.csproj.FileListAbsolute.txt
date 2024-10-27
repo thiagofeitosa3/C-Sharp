@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\bin\Debug\net8.0\DividindoXporY.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\bin\Debug\net8.0\DividindoXporY.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\bin\Debug\net8.0\DividindoXporY.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\bin\Debug\net8.0\DividindoXporY.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\bin\Debug\net8.0\DividindoXporY.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\refint\DividindoXporY.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\DividindoXporY.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\DividindoXporY\DividindoXporY\obj\Debug\net8.0\ref\DividindoXporY.dll

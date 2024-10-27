@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\bin\Debug\net8.0\Divisores1.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\bin\Debug\net8.0\Divisores1.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\bin\Debug\net8.0\Divisores1.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\bin\Debug\net8.0\Divisores1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\bin\Debug\net8.0\Divisores1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\refint\Divisores1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\Divisores1.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\Divisores1\Divisores1\obj\Debug\net8.0\ref\Divisores1.dll

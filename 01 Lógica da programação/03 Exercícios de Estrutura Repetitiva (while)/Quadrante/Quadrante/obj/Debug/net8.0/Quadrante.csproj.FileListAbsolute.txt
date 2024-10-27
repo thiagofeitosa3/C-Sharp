@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\bin\Debug\net8.0\Quadrante.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\bin\Debug\net8.0\Quadrante.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\bin\Debug\net8.0\Quadrante.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\bin\Debug\net8.0\Quadrante.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\bin\Debug\net8.0\Quadrante.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\refint\Quadrante.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\Quadrante.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (while)\Quadrante\Quadrante\obj\Debug\net8.0\ref\Quadrante.dll

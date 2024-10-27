@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\bin\Debug\net8.0\Construtores.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\bin\Debug\net8.0\Construtores.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\bin\Debug\net8.0\Construtores.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\bin\Debug\net8.0\Construtores.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Construtores, palavras this, sobrecarga, encapsulamento\Construtores\Construtores\obj\Debug\net8.0\ref\Construtores.dll

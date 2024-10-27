@@ -1,0 +1,21 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\bin\Debug\net8.0\SomaSimples.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\bin\Debug\net8.0\SomaSimples.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\bin\Debug\net8.0\SomaSimples.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\bin\Debug\net8.0\SomaSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\bin\Debug\net8.0\SomaSimples.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\refint\SomaSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\SomaSimples\SomaSimples\obj\Debug\net8.0\ref\SomaSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\refint\SomaSimples.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Sequêncial\SomaSimples\SomaSimples\obj\Debug\net8.0\SomaSimples.pdb

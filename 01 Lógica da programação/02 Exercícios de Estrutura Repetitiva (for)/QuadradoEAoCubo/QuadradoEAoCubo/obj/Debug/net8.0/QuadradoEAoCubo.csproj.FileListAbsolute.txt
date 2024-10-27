@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net8.0\QuadradoEAoCubo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\refint\QuadradoEAoCubo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\QuadradoEAoCubo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Programação\CSharp\Exercícios de Estrutura Repetitiva (for)\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net8.0\ref\QuadradoEAoCubo.dll
