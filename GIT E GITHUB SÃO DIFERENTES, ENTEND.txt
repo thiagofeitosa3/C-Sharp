@@ -1,0 +1,11 @@
+GIT E GITHUB SÃO DIFERENTES, ENTENDE?SÃO DUAS COISAS DISTINTAS
+
+GIT -- VERSIONADOR DE ARQUIVOS
+GITHUB -- GERENCIADOR DE ARQUIVOS, OU REDE SOCIAL DE PROGRAMADORES
+
+git add . ----- adiciona qualquer alteração feita em pasta, código ou arquivo
+
+git commit -m "corpo do commit" --- faz o empacotamento das alterações adicionadas a cima
+
+git push ---- empurra o "commit" (empacotamento) pro GitHub(respositorio remoto)
+
